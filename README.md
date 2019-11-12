@@ -1,7 +1,9 @@
 # Project Files
 
 app.py : A very simple few line Flask code demonstration partner app authentication with any shop using oAuth
+
 README.md: All details of all crud operation and oauth
+
 functions.py: Contains functions with example for making crud operations with Products, Customers, Orders and Fulfillments. These functions are ready to use in any python 3 environment. Tested with Python 3.5 and 3.6. These functions handles every property of Products, Customer, Orders and Fullfilments but properties needs to be supplied correctly following API documentation
 
 # Authentication for Partner App
